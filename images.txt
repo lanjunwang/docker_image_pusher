@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #nacos/nacos-server:v3.1.0
-library/openjdk:17-jdk-alpine
+#library/openjdk:17-jdk-alpine
+library/redis:8.2.1
